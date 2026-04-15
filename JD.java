@@ -11,6 +11,7 @@ import lombok.NoArgsConstructor;
 public class JD implements oc{
     private String name;
     private boolean status;
+    private int mark;
     public void press()
     {
         status=!status;

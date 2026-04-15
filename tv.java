@@ -1,8 +1,8 @@
 package demo;
 
 public class tv extends JD{
-    public tv(String name,boolean status)
+    public tv(String name,boolean status,int mark)
     {
-        super(name,status);
+        super(name,status,mark);
     }
 }

@@ -1,8 +1,8 @@
 package demo;
 
 public class win extends JD{
-    public win(String name,boolean status)
+    public win(String name,boolean status,int mark)
     {
-        super(name,status);
+        super(name,status,mark);
     }
 }

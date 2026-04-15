@@ -1,8 +1,8 @@
 package demo;
 
 public class wash extends JD{
-    public wash(String name,boolean status)
+    public wash(String name,boolean status,int mark)
     {
-        super(name,status);
+        super(name,status,mark);
     }
 }
